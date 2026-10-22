@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Create game bá khí siêu cấp"
+git branch -M main
+git remote add origin https://github.com/TEN_TAI_KHOAN_CUA_BAN/tom-gold-run.git
+git push -u origin main
